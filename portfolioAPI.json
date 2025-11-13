@@ -1,7 +1,8 @@
 [
   {
     "projectTitle": "Mint Street Vanishing Parallax",
-    "imageUrls": [],
+    "imageUrls": ["assets/MintStreet/ParallaxVanish/Screenshot 2025-11-13 111420.png", 
+  "assets/MintStreet/ParallaxVanish/Screenshot 2025-11-13 111439.png"],
     "summary": "This is a procedurally generated scrolling parallax, that uses constant calculations to adjust the size of oncoming objects through the car window. This effect was extremely complicated to implement, I would like to add more assets in the future, and lighting effects.",
     "client": "",
     "team": "",
@@ -10,6 +11,11 @@
     "changeList": "",
     "toolList": "CoPilot, Github, Netlify, Codepen, GSAP, HTML, CSS, Javascript",
     "links": [
+      {
+        "type": "github",
+        "label": "Github Repository",
+        "url": "https://github.com/NeonAdNauseam/mintstreetParallaxVanish"
+      },
       {
         "type": "netlify",
         "label": "Live Demo",
