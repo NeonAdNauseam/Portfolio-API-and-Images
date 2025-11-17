@@ -29,7 +29,7 @@
 {
 "projectTitle": "Mint Street Parallax Rough Draft",
 "thumbnailUrl": "",
-"imageUrls": [],
+"imageUrls": ["assets/MintStreet/ParallaxOG/Screenshot 2025-11-13 111513.png","assets/MintStreet/ParallaxOG/Screenshot 2025-11-13 111603.png", "assets/MintStreet/ParallaxOG/Screenshot 2025-11-13 111539.png"],
 "summary": "This was what was originally created for the parallax project, a simple sidescrolling procedurally generated visual effect. The project above is a practice in taking an idea and making it overly complicated to see if you can.",
 "client": "",
 "team": "",
@@ -48,7 +48,7 @@
 {
 "projectTitle": "Mint Street Massacre Boardgame",
 "thumbnailUrl": "",
-"imageUrls": [],
+"imageUrls": ["assets/MintStreet/Boardgame/IMG_1954.png", "assets/MintStreet/Boardgame/IMG_1957.jpeg", "assets/MintStreet/Boardgame/IMG_1956.jpeg"],
 "summary": "The Mint Street Massacre boardgame focuses more heavily on the characters and their interactions in the mint street world. A social deduction game, players are trying to figure out which other players are on their team, while rolling custom dice, and managing resources like cards and health.",
 "client": "",
 "team": "Evan",
@@ -61,7 +61,7 @@
 {
 "projectTitle": "Mint Street Massacre Eldritch Elections",
 "thumbnailUrl": "",
-"imageUrls": [],
+"imageUrls": ["assets/MintStreet/EldritchElections/Screenshot 2025-11-13 111226.png", "assets/MintStreet/EldritchElections/Screenshot 2025-11-13 1112262.png"],
 "summary": "Text based pick a path adventure that focuses on Eldritch Entity Cthulu running to become mayor of gumtham city, the main city in the mint street massacre world.",
 "client": "",
 "team": "",
@@ -93,7 +93,7 @@
 {
 "projectTitle": "GOTV Poster",
 "thumbnailUrl": "",
-"imageUrls": [],
+"imageUrls": ["assets/GOTV/image.png", "assets/GOTV/image (2).png", "assets/GOTV/image (3).png"],
 "summary": "This project was to create promotional media that would encourage a younger audience to get out and vote. I went with a Harambe the Gorilla theme for multiple reasons, and then combined that with some breakfast cereal ideas hoping to appeal to said younger audiences.",
 "client": "Get Out the Vote",
 "team": "",
@@ -106,7 +106,7 @@
 {
 "projectTitle": "Spokane Zinefest Promotional Materials",
 "thumbnailUrl": "",
-"imageUrls": [],
+"imageUrls": ["assets/spokaneZineFest/over-water-scaled.jpg", "assets/spokaneZineFest/Screenshot 2025-11-13 113526.png", "assets/spokaneZineFest/Screenshot 2025-11-13 113639.png"],
 "summary": "Local event organizers reached out to our class, asking for a wide array of promotional material for their event which is hosted at a local library each year. This project was also a competition.",
 "client": "Spokane Zinefest",
 "team": "Rowan and Cai",
@@ -119,7 +119,7 @@
 {
 "projectTitle": "Lo Fi Zine",
 "thumbnailUrl": "",
-"imageUrls": [],
+"imageUrls": ["assets/Zines/LoFi/Screenshot 2025-11-13 114146.png", "assets/Zines/LoFi/Screenshot 2025-11-13 114208.png", "assets/Zines/LoFi/Screenshot 2025-11-13 114224.png"],
 "summary": "We were allowed to choose our own music genre to do research and a zine on. I was encouraged to use chat gpt to generate the text for these zines, as the focus of the classes I was taking cared more deeply about layout and typography.",
 "client": "",
 "team": "",
@@ -132,7 +132,7 @@
 {
 "projectTitle": "Agitprop Zine",
 "thumbnailUrl": "",
-"imageUrls": [],
+"imageUrls": ["assets/Zines/Agitprop/Screenshot 2025-11-13 113024.png", "assets/Zines/Agitprop/Screenshot 2025-11-13 113038.png", "assets/Zines/Agitprop/Screenshot 2025-11-13 113114.png"],
 "summary": "This Zine focused on the historical usage of agitation propaganda, and its effects on population. I really wanted to improve my layouts and the way that my typography and images interacted on the page. This is also when I started to use less AI generated images in my work.",
 "client": "",
 "team": "",
@@ -145,8 +145,8 @@
 {
 "projectTitle": "Atlantis Zine",
 "thumbnailUrl": "",
-"imageUrls": [],
-"summary": "For this Zine we were told to choose three forms of writing that were less common to encounter, as I was creating the Zine I found that all three languages I had chosen had an association with British Imperialism and made that a historical focus in the content.",
+"imageUrls": ["assets/Zines/Atlantis/Screenshot 2025-11-13 114010.png", "assets/Zines/Atlantis/Screenshot 2025-11-13 114032.png", "assets/Zines/Atlantis/Screenshot 2025-11-13 114103.png"],
+"summary": "This was the first of my Zines for this series. For this Zine we were told to choose three forms of writing that were less common to encounter, as I was creating the Zine I found that all three languages I had chosen had an association with British Imperialism and made that a historical focus in the content.",
 "client": "",
 "team": "",
 "dates": "September 2024",
@@ -158,7 +158,7 @@
 {
 "projectTitle": "Chiquita Bananas Zine",
 "thumbnailUrl": "",
-"imageUrls": [],
+"imageUrls": ["assets/Zines/ChiquitaBananas/Screenshot 2025-11-13 112901.png", "assets/Zines/ChiquitaBananas/Screenshot 2025-11-13 112812.png", "assets/Zines/ChiquitaBananas/Screenshot 2025-11-13 112925.png"],
 "summary": "This Zine had us focusing on Designers in South America. I covered the history surrounding the Guatemalan coup of 1954 and its effects on designers that were historically adjacent to it.",
 "client": "",
 "team": "",
@@ -171,7 +171,7 @@
 {
 "projectTitle": "Pokemon API Site",
 "thumbnailUrl": "",
-"imageUrls": [],
+"imageUrls": ["assets/Sites/Pokedex/Screenshot 2025-11-13 075000.png", "assets/Sites/Pokedex/Screenshot 2025-11-13 075037.png", "assets/Sites/Pokedex/Screenshot 2025-11-13 075053.png"],
 "summary": "This was one of my first projects using APIs, it has the ability to present more than just the 493 pokemon present, but I figured that would be enough to get the point across without taking up unnecessary resources. Each Card is clickable and links to a dynamically created page that uses more detailed information from a different section of the same API.",
 "client": "",
 "team": "",
@@ -190,7 +190,7 @@
 {
 "projectTitle": "Smart Mirror Site",
 "thumbnailUrl": "",
-"imageUrls": [],
+"imageUrls": ["assets/Sites/SmartMirror/Screenshot 2025-11-13 075533.png", "assets/Sites/SmartMirror/Screenshot 2025-11-13 075602.png"],
 "summary": "Uses the webcam to create a smart mirror, the \u201cWho\u2019s that pokemon\u201d reuses that same pokemon api in a fun and engaging way. Links to a weather API to get the weather in Spokane WA specifically",
 "client": "",
 "team": "",
@@ -209,7 +209,7 @@
 {
 "projectTitle": "Zen Dashboard Site",
 "thumbnailUrl": "",
-"imageUrls": [],
+"imageUrls": ["assets/Sites/ZenMindfullnessBoard/Screenshot 2025-11-13 075114.png", "assets/Sites/ZenMindfullnessBoard/Screenshot 2025-11-13 075211.png"],
 "summary": "The project focuses on the Bento Box style layout, and using libraries to capture dates and times. Edward Bernays\u2019 Death is included as a bit of historical humor. There is an easter egg hidden on the clock, when clicked it plays some background music. Cherry Blossoms fall and the cursor creates a nice ripple effect on the background.",
 "client": "",
 "team": "",
@@ -247,7 +247,7 @@
 {
 "projectTitle": "Class Roster Site",
 "thumbnailUrl": "",
-"imageUrls": [],
+"imageUrls": ["assets/Sites/ClassRoster/Screenshot 2025-11-13 075335.png", "assets/Sites/ClassRoster/Screenshot 2025-11-13 075401.png"],
 "summary": "This project was an additional use of APIs, but was meant to showcase a deeper focus on visual animations than the Pokemon API project used.",
 "client": "",
 "team": "",
@@ -266,7 +266,7 @@
 {
 "projectTitle": "Queen of England Deepfake",
 "thumbnailUrl": "",
-"imageUrls": [],
+"imageUrls": ["assets/Deepfake/Screenshot 2025-11-13 110934.png", "assets/Deepfake/Screenshot 2025-11-13 111046.png", "assets/Deepfake/Screenshot 2025-11-13 111024.png"],
 "summary": "Prior to her passing this deepfake was made using deepfake labs in the winter of 2024, prior to release of modern ai tools like sora. Meant to be funny, and light hearted while showing how intense the oncoming AI videos would become. They actually came faster than I anticipated myself.",
 "client": "",
 "team": "Jonathan Meyersberg (Actor)",
@@ -285,7 +285,7 @@
 {
 "projectTitle": "Lobster Lass Song",
 "thumbnailUrl": "",
-"imageUrls": [],
+"imageUrls": ["assets/LobsterLass/Screenshot 2025-11-13 110645.png", "assets/LobsterLass/Screenshot 2025-11-13 110728.png", "assets/LobsterLass/Screenshot 2025-11-13 110758.png"],
 "summary": "The culmination of our study on DADA the historical art movement I wrote and sang a raunchy song that attempted to capture the heart of how weird human art was shortly after WWII. I brought back the AIDS educational video that they showed my class in third grade because it was really weird looking and I wanted other people to see it too.",
 "client": "",
 "team": "Nick",
